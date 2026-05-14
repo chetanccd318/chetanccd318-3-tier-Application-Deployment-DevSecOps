@@ -271,8 +271,6 @@ This project provided hands-on experience with:
 👨‍💻 Author
 Chetan Deshmukh
 DevOps | Cloud | CI/CD | Docker | Kubernetes | AWS | Jenkins | Terraform
-
-
 <img width="1600" height="897" alt="3tier app devsecops Practise project (16)" src="https://github.com/user-attachments/assets/ae6c522c-ff3b-4ff6-87ae-b56d2ce3b0d3" />
 <img width="1600" height="899" alt="3tier app devsecops Practise project (14)" src="https://github.com/user-attachments/assets/df1e763d-5e4e-4c90-a0c6-a0e289f24e2e" />
 <img width="1600" height="899" alt="3tier app devsecops Practise project (13)" src="https://github.com/user-attachments/assets/95979ecc-3b8a-431b-bde1-84d75a612dae" />
