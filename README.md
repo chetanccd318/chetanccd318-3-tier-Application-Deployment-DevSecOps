@@ -234,7 +234,24 @@ trivy image nginx:latest
 ``
 Scan MySQL image:
 trivy image mysql:5.7
-```
+``
+<img width="1600" height="898" alt="3tier app devsecops Practise project (1)" src="https://github.com/user-attachments/assets/a0c30ec6-d222-4a2f-9b59-34e43f23e4b8" />
+<img width="1600" height="897" alt="3tier app devsecops Practise project (16)" src="https://github.com/user-attachments/assets/b23e373e-bf62-4462-b868-ff4c01b9e4f9" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (15)" src="https://github.com/user-attachments/assets/30aed9b7-1376-408b-b43c-50c32878e157" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (14)" src="https://github.com/user-attachments/assets/7ad71f0f-6a5c-4775-9b98-77b3e9ed07de" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (13)" src="https://github.com/user-attachments/assets/5fec3ac9-a96c-423f-a095-edb0b169bfe1" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (12)" src="https://github.com/user-attachments/assets/97b3c188-c4c1-4917-b7e6-12f248ff4a2f" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (11)" src="https://github.com/user-attachments/assets/60cc3185-4094-4ed9-b247-72b3cedf49ce" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (10)" src="https://github.com/user-attachments/assets/9bfb86f4-34c1-4bb6-88e9-fefabf21a988" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (9)" src="https://github.com/user-attachments/assets/05dc8dde-bc78-483a-84a4-a515ac8ad0db" />
+<img width="1600" height="905" alt="3tier app devsecops Practise project (8)" src="https://github.com/user-attachments/assets/5712c844-24af-4ec5-b585-987b53ac5629" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (7)" src="https://github.com/user-attachments/assets/c849634e-4f3d-44de-8c10-0b190fcef545" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (6)" src="https://github.com/user-attachments/assets/0551845b-9b0c-4ee5-b121-0ba8376d995f" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (5)" src="https://github.com/user-attachments/assets/6ec8b3fa-58d1-4a76-b15d-b231e17e9b97" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (4)" src="https://github.com/user-attachments/assets/08d3584d-7c70-4c20-8f0f-c8ea8dcd2346" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (3)" src="https://github.com/user-attachments/assets/9c2ecffc-ad7c-49a4-ab7b-74e9ef0f9b5a" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (2)" src="https://github.com/user-attachments/assets/cd7fcf51-0d08-40e4-926b-a557db1942c4" />
+
 # 📊 Key DevOps & DevSecOps Features
 
 ✅ CI/CD Automation using Jenkins
