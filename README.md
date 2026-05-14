@@ -270,5 +270,25 @@ This project provided hands-on experience with:
 --
 👨‍💻 Author
 Chetan Deshmukh
-DevOps | Cloud | CI/CD | Docker | Kubernetes | AWS | Jenkins | Terraform Enthusiast
+DevOps | Cloud | CI/CD | Docker | Kubernetes | AWS | Jenkins | Terraform
+
+
+<img width="1600" height="897" alt="3tier app devsecops Practise project (16)" src="https://github.com/user-attachments/assets/ae6c522c-ff3b-4ff6-87ae-b56d2ce3b0d3" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (14)" src="https://github.com/user-attachments/assets/df1e763d-5e4e-4c90-a0c6-a0e289f24e2e" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (13)" src="https://github.com/user-attachments/assets/95979ecc-3b8a-431b-bde1-84d75a612dae" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (12)" src="https://github.com/user-attachments/assets/504fde06-73a5-4365-846c-150797ef476e" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (11)" src="https://github.com/user-attachments/assets/4774dc76-cd32-4004-96b7-27e20d5e1e9f" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (10)" src="https://github.com/user-attachments/assets/c77c6b0f-6eb0-429a-ba40-c0606cf98e65" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (9)" src="https://github.com/user-attachments/assets/fc926965-4541-41de-8df7-fceb9c06380f" />
+<img width="1600" height="905" alt="3tier app devsecops Practise project (8)" src="https://github.com/user-attachments/assets/4eaac7a4-092f-4394-af56-b57f6898b32c" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (7)" src="https://github.com/user-attachments/assets/01e0984b-2430-437f-92a0-f19b11863e17" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (6)" src="https://github.com/user-attachments/assets/298a5f66-f3f8-416a-a7c0-18aabda7817a" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (5)" src="https://github.com/user-attachments/assets/c45c4bae-b770-4037-a4e4-214d4262ceaf" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (4)" src="https://github.com/user-attachments/assets/2193061e-0611-4529-a597-3c0aa434c2bf" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (3)" src="https://github.com/user-attachments/assets/35b3f3b4-3e3a-4412-bbcc-5f271e3910d3" />
+<img width="1600" height="899" alt="3tier app devsecops Practise project (2)" src="https://github.com/user-attachments/assets/15f3a5a1-3e06-4fc4-9279-37296171bbff" />
+<img width="1600" height="898" alt="3tier app devsecops Practise project (1)" src="https://github.com/user-attachments/assets/d6398268-deb3-4839-8d85-a2eac4acc1cd" />
+
+
+
 
