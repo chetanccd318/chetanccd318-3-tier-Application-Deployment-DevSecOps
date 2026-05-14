@@ -4,8 +4,9 @@
 
 * **Frontend Layer** – User Interface
 * **Backend Layer** – Application/API services
-* **Database Layer** – MySQL database
-
+**Database Layer** – MySQL database
+*
+* <img width="1080" height="720" alt="Architecture Diagram" src="https://github.com/user-attachments/assets/b013acb7-42d8-4ce1-96ee-260978eafa8a" />
 The project focuses on automating the complete CI/CD workflow using Jenkins, containerization using Docker, code quality analysis using SonarQube, and vulnerability scanning using Trivy.
 
 The deployment was performed on an AWS EC2 Ubuntu server with Dockerized services and automated Jenkins pipelines.
